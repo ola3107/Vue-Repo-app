@@ -89,11 +89,11 @@ header {
 header h2 {
   font-size: 1.5rem;
   font-weight: 700;
-  color: black;
+  color: aliceblue;
 }
 
 header h2 span {
-  color: white;
+  color: black;
   font-weight: 700;
 }
 

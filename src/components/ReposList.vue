@@ -169,12 +169,13 @@ function handlePrev() {
 }
 
 .repo-item-top h2 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 700;
+  color: aliceblue;
 }
 
 .repo-item-top p {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-style: italic;
   border: 1px solid;
   padding: 1px 10px;
@@ -212,6 +213,7 @@ function handlePrev() {
 
   .repo-item h2 {
     font-size: 1.2rem;
+    color: aliceblue;
   }
 
   .repo-item p {
