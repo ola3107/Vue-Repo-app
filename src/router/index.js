@@ -32,7 +32,7 @@ const router = createRouter({
       props: true
     },
     {
-      path: '/:catchAll(.*)',
+      path: '/:catchAll(.*)*',
       name: 'FourOfour',
       component: PathErrorView
     },
